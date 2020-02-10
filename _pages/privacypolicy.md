@@ -1,4 +1,10 @@
-## Privacy Policy
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
+# Privacy Policy
 
 Roman Six built the Coconotes app as a Free app. This service is provided by Roman Six at no cost and is intended for use as is.
 
