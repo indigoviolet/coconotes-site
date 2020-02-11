@@ -29,9 +29,9 @@ email_address: coconotes@romansix.org
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name: magic
+  - title: Fast braindumps
+    description: Send ideas and todos instantaneously. Avoid attention residue and distracting from the task at hand.
+    fontawesome_icon_name: brain
 
   - title: iPhone Device Preview
     description: Preview your app in the context of an iPhone device. Five different device colors included.
