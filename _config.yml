@@ -33,41 +33,25 @@ features:
     description: Send ideas and todos instantaneously. Avoid attention residue and distracting from the task at hand.
     fontawesome_icon_name: brain
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name: mobile
+  - title: Tagging
+    description: Categorize your notes with one tap. Use Gmail filters to automatically categorize them.
+    fontawesome_icon_name: hashtag
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Integrates with Gmail
+    description: Notes are emails, so you can use the power of Gmail to manage them. Filter them, group them, star or snooze them for later.
+    fontawesome_icon_name: google
 
-  - title: Automatic Icon and Metadata
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name: sync
+  - title: Favorite recipients
+    description: Send notes to your commonly used destinations with one tap by creating a list of email recipients, and optionally tags.
+    fontawesome_icon_name: user-friends
 
-  - title: Easy to Tweak
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: adjust
+  - title: Offline queueing
+    description: In airplane mode? Queue your notes and they will be automatically sent when the network is available.
+    fontawesome_icon_name: plane
 
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: star
-
-  - title: Smart App Banner
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
-
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
-
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
-
-  - title: # New Feature Title
-    description: # New Feature Description
-    fontawesome_icon_name: # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title: Works with your tools
+    description: Use Zapier, Integromat or automate.io or just Gmail filters to forward your notes to other tools.
+    fontawesome_icon_name: plug
 
 # Theme Settings
 topbar_color: '#000000'
