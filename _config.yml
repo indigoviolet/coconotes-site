@@ -18,7 +18,7 @@ enable_smart_app_banner: false # Set to true to show a smart app banner at top o
 
 # Information About Yourself
 your_name: Roman Six
-your_link: coconotes.romansix.org
+your_link: https://coconotes.romansix.org
 your_city: San Francisco
 email_address: coconotes@romansix.org
 #facebook_username:
@@ -31,27 +31,27 @@ email_address: coconotes@romansix.org
 features:
   - title: Fast braindumps
     description: Send ideas and todos instantaneously. Avoid attention residue and distractions from your current task.
-    fontawesome_icon_name: brain
+    fontawesome_icon_name: fas fa-brain
 
   - title: Tagging
     description: Categorize your notes with one tap. Use Gmail filters to automatically categorize them.
-    fontawesome_icon_name: hashtag
+    fontawesome_icon_name: fas fa-hashtag
 
   - title: Integrates with Gmail
     description: Notes are emails, so you can use the power of Gmail to manage them. Filter them, group them, star or snooze them for later.
-    fontawesome_icon_name: google-plus-g
+    fontawesome_icon_name: fab fa-google
 
   - title: Favorite recipients
     description: Send notes to your commonly used destinations with one tap by creating a list of email recipients, and optionally tags.
-    fontawesome_icon_name: user-friends
+    fontawesome_icon_name: fas fa-user-friends
 
   - title: Offline queueing
     description: In airplane mode? Queue your notes and they will be automatically sent when the network is available.
-    fontawesome_icon_name: plane
+    fontawesome_icon_name: fas fa-plane
 
   - title: Works with your tools
     description: Use Zapier, Integromat or automate.io or just Gmail filters to forward your notes to other tools.
-    fontawesome_icon_name: plug
+    fontawesome_icon_name: fas fa-plug
 
 # Theme Settings
 topbar_color: '#000000'
