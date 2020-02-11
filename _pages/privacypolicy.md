@@ -20,7 +20,7 @@ The app does use third party services to provide some functionality that may col
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google API and Play services](https://www.google.com/policies/privacy/)
+*   [Google API and Play services](https://www.google.com/policies/privacy/): Users sign in with Google and authorize access to Gmail's send API so that messages may be sent from the user's Gmail account.
 
 **Log Data**
 
