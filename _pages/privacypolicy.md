@@ -27,7 +27,7 @@ The app caches information returned from the Google auth API, such as the user's
 
 Users may sign out of Google within the app, or use the [Google accounts management page](https://accounts.google.com) to deauthorize Coconotes.
 
-See also: the privacy policy for [Google API and Play services](https://www.google.com/policies/privacy/):
+See also: the privacy policy for [Google API and Play services](https://www.google.com/policies/privacy/)
 
 **Log Data**
 
