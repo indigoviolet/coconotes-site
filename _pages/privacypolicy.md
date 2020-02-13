@@ -4,6 +4,9 @@ title: Privacy Policy
 include_in_header: true
 ---
 
+
+Last updated: Feb 12, 2020
+
 # Privacy Policy
 
 Roman Six built the Coconotes app as a Free app. This service is provided by Roman Six at no cost and is intended for use as is.
@@ -16,11 +19,15 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 For a better experience, while using our Service, we may require you to provide the app with certain personally identifiable information. The information requested will be retained on your device and is not collected by us in any way.
 
-The app does use third party services to provide some functionality that may collect information used to identify you.
+**How Coconotes uses the Google API**
 
-Link to privacy policy of third party service providers used by the app
+Users sign in with Google and authorize access to Gmail's send API, so that notes in the app can be sent from the user's Gmail account, as if the user were themselves doing so.
 
-*   [Google API and Play services](https://www.google.com/policies/privacy/): Users sign in with Google and authorize access to Gmail's send API so that messages may be sent from the user's Gmail account.
+The app caches information returned from the Google auth API, such as the user's name, email address, and a profile image. The app occasionally refreshes its credentials as described in the Google API documentation.
+
+Users may sign out of Google within the app, or use the [Google accounts management page](https://accounts.google.com) to deauthorize Coconotes.
+
+See also: the privacy policy for [Google API and Play services](https://www.google.com/policies/privacy/):
 
 **Log Data**
 
