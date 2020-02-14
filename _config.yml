@@ -13,7 +13,7 @@ app_icon: assets/appicon.png # Automatically populates if not set and if iOS app
 
 app_name: Coconotes # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: Free # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Instantaneously braindump notes and todos
+app_description: Instant braindumps to your Gmail
 
 enable_smart_app_banner: false # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -31,7 +31,7 @@ email_address: coconotes@romansix.org
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Fast braindumps
-    description: Send ideas and todos instantaneously. Avoid attention residue and distractions from your current task.
+    description: Send ideas and todos instantly. Avoid attention residue and distractions from your current task.
     fontawesome_icon_name: fas fa-brain
 
   - title: Tagging
@@ -46,12 +46,16 @@ features:
     description: Send notes to your commonly used destinations with one tap by creating a list of email recipients, and optionally tags.
     fontawesome_icon_name: fas fa-user-friends
 
+  - title: Photo attachments
+    description: It only takes a couple taps to include a photo with your note - you can include a lot of detail quickly this way.
+    fontawesome_icon_name: fas fa-camera-retro
+
   - title: Offline queueing
-    description: In airplane mode? Queue your notes and they will be automatically sent when the network is available.
+    description: In airplane mode? Queue your notes and they will be automatically sent when you are back online.
     fontawesome_icon_name: fas fa-plane
 
   - title: Works with your tools
-    description: Use Zapier, Integromat or just Gmail filters to forward your notes to other tools like Todoist and Asana.
+    description: Coconotes integrates well with most task management systems via email integration - such as Todoist, TickTick, Remember the Milk. Or use Zapier/Integromat to forward tasks from your Gmail.
     fontawesome_icon_name: fas fa-plug
 
 # Theme Settings
