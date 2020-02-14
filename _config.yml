@@ -58,6 +58,11 @@ features:
     description: Coconotes integrates well with most task management systems via email integration - such as Todoist, TickTick, Remember the Milk. Or use Zapier/Integromat to forward tasks from your Gmail.
     fontawesome_icon_name: fas fa-plug
 
+  - title: And more on the way...
+    description: iOS app, calendar integration...
+    fontawesome_icon_name: fas fa-magic
+
+
 # Theme Settings
 topbar_color: '#000000'
 topbar_transparency: 0.1
