@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 
-Last updated: Feb 12, 2020
+Last updated: Feb 18, 2020
 
 # Privacy Policy
 
@@ -32,6 +32,8 @@ See also: the privacy policy for [Google API and Play services](https://www.goog
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+* [Bugsnag](https://www.bugnsag.com): We use Bugsnag to capture errors in order to fix the cause of those errors. Some information about your actions in the app may be included in these captured reports. However, Bugsnag currently only retains data for 7 days. See the [Bugsnag privacy policy](https://docs.bugsnag.com/legal/privacy-policy/).
 
 **Cookies**
 
